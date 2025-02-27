@@ -1,0 +1,1 @@
+zip -r build/new-year-countdown.zip manifest.json newtab.html script.js styles.css icons/ fonts/ images/
