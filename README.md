@@ -1,8 +1,8 @@
 # New Year Countdown
 
-[![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/YOUR_EXTENSION_ID)](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID)
-[![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/YOUR_EXTENSION_ID)](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID)
-[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/YOUR_EXTENSION_ID)](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID)
+[![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/hbjbihpicdjdjojogklgebemcondiien)](https://chrome.google.com/webstore/detail/hbjbihpicdjdjojogklgebemcondiien)
+[![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/hbjbihpicdjdjojogklgebemcondiien)](https://chrome.google.com/webstore/detail/hbjbihpicdjdjojogklgebemcondiien)
+[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/hbjbihpicdjdjojogklgebemcondiien)](https://chrome.google.com/webstore/detail/hbjbihpicdjdjojogklgebemcondiien)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ankushKun_?style=social)](https://twitter.com/ankushKun_)
 
 A minimalist Chrome extension that replaces the default new tab page with a simple pixel-art countdown to the next year with a sleek background image.
